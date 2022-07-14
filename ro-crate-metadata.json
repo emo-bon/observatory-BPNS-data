@@ -1,0 +1,1 @@
+{"@context": "https://w3id.org/ro/crate/1.1/context", "@graph": [{"@id": "./", "@type": "Dataset", "datePublished": "2022-07-14T09:27:08+01:00", "hasPart": [{"@id": "README.md"}]}, {"@id": "ro-crate-metadata.json", "@type": "CreativeWork", "about": {"@id": "./"}, "conformsTo": {"@id": "https://w3id.org/ro/crate/1.1"}}, {"@id": "README.md", "@type": "File"}]}
