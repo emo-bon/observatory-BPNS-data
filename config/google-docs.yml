@@ -1,0 +1,19 @@
+habitat:
+  sediment: 
+    docid: 1zc0bZdpl-Eoi35lI_5BGkElbscplyQRyNPLkSgeEyEQ
+    tabid:
+      observatory: 2052143695
+      sampling: 124596284
+      measured: 15718907
+  water:
+    docid: 1mEi4Bd2YR63WD0j54FQ6QkzcUw_As9Wilue9kaXO2DE
+    tabid:
+      observatory: 2052143695
+      sampling: 124596284 
+      measured: 15718907
+  hard:
+    docid:
+    tabid:
+      observatory:
+      sampling:
+      measured:
